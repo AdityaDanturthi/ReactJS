@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "https://AdityaDanturthi.github.io/ReactJS/",
+=======
+  "homepage": "https://AdityaDanturthi.github.io/react-info/",
+>>>>>>> 5382ad477fb0a020b4db5f0f3769f8842be681de
   "name": "first-app",
   "version": "0.1.0",
   "private": true,
