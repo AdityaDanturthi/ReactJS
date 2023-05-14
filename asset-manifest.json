@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/first-app%20/static/css/main.dec25540.css",
-    "main.js": "/first-app%20/static/js/main.68c0b35a.js",
-    "static/js/787.f3d7924f.chunk.js": "/first-app%20/static/js/787.f3d7924f.chunk.js",
-    "index.html": "/first-app%20/index.html",
-    "main.dec25540.css.map": "/first-app%20/static/css/main.dec25540.css.map",
-    "main.68c0b35a.js.map": "/first-app%20/static/js/main.68c0b35a.js.map",
-    "787.f3d7924f.chunk.js.map": "/first-app%20/static/js/787.f3d7924f.chunk.js.map"
+    "main.css": "/%20/AdityaDanturthi.github.io/ReactJS/static/css/main.dec25540.css",
+    "main.js": "/%20/AdityaDanturthi.github.io/ReactJS/static/js/main.65094289.js",
+    "static/js/787.f3d7924f.chunk.js": "/%20/AdityaDanturthi.github.io/ReactJS/static/js/787.f3d7924f.chunk.js",
+    "index.html": "/%20/AdityaDanturthi.github.io/ReactJS/index.html",
+    "main.dec25540.css.map": "/%20/AdityaDanturthi.github.io/ReactJS/static/css/main.dec25540.css.map",
+    "main.65094289.js.map": "/%20/AdityaDanturthi.github.io/ReactJS/static/js/main.65094289.js.map",
+    "787.f3d7924f.chunk.js.map": "/%20/AdityaDanturthi.github.io/ReactJS/static/js/787.f3d7924f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dec25540.css",
-    "static/js/main.68c0b35a.js"
+    "static/js/main.65094289.js"
   ]
 }
