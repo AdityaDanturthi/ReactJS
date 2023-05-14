@@ -10,7 +10,7 @@ function App() {
 
 function Content(){
   return(
-    <div className='flex flex-col items-start justify-start p-16'>
+    <div className='flex flex-col items-start justify-start p-16 h-screen w-screen'>
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" 
     alt="React logo" className="h-20 w-25" />
       <h1 className='font-extrabold text-7xl py-5'>Fun facts about React</h1>
