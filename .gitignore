@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Build output
+build/
+dist/
+*.js.map
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# IDE files
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
